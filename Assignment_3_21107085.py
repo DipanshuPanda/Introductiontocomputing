@@ -18,7 +18,7 @@ Branch- Mechanical'''
 #         a = 0
 #         n3 = 0
 #         while a<1:
-#             n4 = float(input("Enter another number:\nElse press (0) to obtain final sum "))
+#             n4 = float(input("Enter another number:\nElse press (0) to obtain final value "))
 #             n3 += n4 
 #             if n4==0.0:
 #                 a += 1
@@ -31,7 +31,7 @@ Branch- Mechanical'''
 #         a = 0
 #         n3 = 0
 #         while a<1:
-#             n4 = float(input("Enter another number:\nElse press (0) to obtain final sum "))
+#             n4 = float(input("Enter another number:\nElse press (0) to obtain final value "))
 #             n3 -= n4 
 #             if n4==0.0:
 #                 a += 1
@@ -44,7 +44,7 @@ Branch- Mechanical'''
 #         a = 0
 #         n3 = 1
 #         while a<1:
-#             n4 = float(input("Enter another number:\nElse press (1) to obtain final sum "))
+#             n4 = float(input("Enter another number:\nElse press (1) to obtain final value "))
 #             n3 *= n4 
 #             if n4==1.0:
 #                 a += 1
@@ -57,7 +57,7 @@ Branch- Mechanical'''
 #         a = 0
 #         n3 = 1
 #         while a<1:
-#             n4 = float(input("Enter another number:\nElse press (1) to obtain final sum "))
+#             n4 = float(input("Enter another number:\nElse press (1) to obtain final value "))
 #             n3 /= n4 
 #             if n4==1.0:
 #                 a += 1
