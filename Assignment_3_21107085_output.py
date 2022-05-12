@@ -19,11 +19,11 @@ You can choose the following operations:
 Enter your number, it may be a an integer or a decimal: 3 
 Enter another number: 4
 Enter another number:
-Else press (1) to obtain final sum 5
+Else press (1) to obtain final value 5
 60.0
 The final value is stored as mul for future use
 Enter another number:
-Else press (1) to obtain final sum 1
+Else press (1) to obtain final value 1
 60.0
 The final value is stored as mul for future use
 Q3.
